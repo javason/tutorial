@@ -2,3 +2,4 @@ sample
 add 변경사항을 등록하기
 add 추가
 tutorial2에서 추가함
+tutorial1에서 추가함
